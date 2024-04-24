@@ -1,2 +1,0 @@
-# UpInSmoke
-far out man!

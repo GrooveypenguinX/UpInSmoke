@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/DoMov76yZBrnOgHb75XAK7tLp23Ebf/AgWR/GS0V2AqVmh6SP1bRObtebPZHI7NG6jIUaes7hedhnWrL6+5g==",
+  "success": true,
+  "projectFilePath": "Q:\\SPT_380\\SPT_Client_Mods\\WTT-UpInSmoke\\VoicePatch\\WTT-UpInSmoke.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakec\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\jakec\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
